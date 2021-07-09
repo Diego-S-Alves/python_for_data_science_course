@@ -1,1 +1,1 @@
-Cursos de Python para Data Science
+Curso de Python para Data Science ministrado pela Jéssica Temporal.
